@@ -5,3 +5,5 @@
 
 - Upon graduation, I am looking to join the workforce.
 - I am searching for jobs preferrably in the Central or Northwest Arkansas areas, or remote work.
+- Check out my online personalized resume https://bleem899.github.io/react-website-portfolio/![image](https://user-images.githubusercontent.com/95989698/149703952-802fbd32-e113-4661-bbcb-8ec39438e079.png)
+
